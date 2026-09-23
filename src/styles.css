@@ -76,7 +76,7 @@ button { font: inherit; }
 .hero-copy h1 span {
   display: block; background: var(--brand-gradient); -webkit-background-clip: text; background-clip: text; color: transparent;
 }
-.hero-copy p { max-width: 510px; margin: 0 0 28px; color: #607089; font-size: 14px; line-height: 1.65; }
+.hero-copy p { max-width: 510px; margin: 0 0 28px; color: #607089; font-size: 14.5px; line-height: 1.65; }
 .hero-actions { display: flex; gap: 10px; }
 .hero-actions .gradient-button { border-radius: 6px; padding: 11px 16px; font-size: 12px; }
 .outline-button { display: inline-flex; align-items: center; justify-content: center; border: 1px solid #dfe3ea; border-radius: 6px; padding: 10px 27px; font-size: 12px; color: #47546a; background: white; }
@@ -88,7 +88,7 @@ button { font: inherit; }
 .section-heading { padding: 0 0 20px; }
 .section-heading h2 { margin: 0; font-size: 26px; line-height: 1.1; letter-spacing: -.9px; }
 .section-heading h2 span { background: var(--brand-gradient); -webkit-background-clip: text; background-clip: text; color: transparent; }
-.section-heading p { margin: 7px 0 0; color: #8290a6; font-size: 13px; line-height: 1.5; }
+.section-heading p { margin: 7px 0 0; color: #8290a6; font-size: 13.5px; line-height: 1.5; }
 .technology-layout { display: grid; grid-template-columns: minmax(0, 1fr) 260px; gap: 20px; align-items: start; }
 .technology-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 14px; }
 .technology-card {
@@ -107,7 +107,7 @@ button { font: inherit; }
 .badge--postgresql { color: #2c68d0; background: #edf4ff; }
 .badge--nodejs { color: #25a06f; background: #effbf6; }
 .technology-card h3 { margin: 10px 0 6px; font-size: 15px; line-height: 1.15; }
-.technology-card p { margin: 0; color: #718098; font-size: 11px; line-height: 1.55; min-height: 51px; }
+.technology-card p { margin: 0; color: #718098; font-size: 11.5px; line-height: 1.55; min-height: 51px; }
 .card-meta { display: grid; grid-template-columns: auto 1fr auto; align-items: center; gap: 7px; margin-top: 11px; }
 .category-chip { color: #657287; background: #f5f7fa; border: 1px solid #edf0f4; border-radius: 4px; padding: 5px 7px; font-size: 10px; }
 .difficulty { color: #728096; font-size: 10px; white-space: nowrap; }
