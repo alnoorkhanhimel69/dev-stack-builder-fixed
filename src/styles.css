@@ -37,6 +37,10 @@ button { font: inherit; }
   grid-template-columns: 1fr auto 1fr;
   align-items: center;
 }
+.text-change{
+  color: black;
+}
+
 .brand { display: inline-flex; align-items: center; gap: 8px; width: fit-content; }
 .brand-mark {
   width: 24px; height: 24px; border-radius: 7px;
